@@ -1,4 +1,4 @@
-# CryptoWatchList
+# Todo List - Task Tracker
 CRUD Flask + Vue WebApp Demo - Create tasks to add to todo list <br />
 <br />
 CREATE - Add items to todo list through Vue GUI or Flask API <br />
