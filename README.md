@@ -1,5 +1,6 @@
 # Todo List - Task Tracker
-CRUD Flask + Vue WebApp Demo - Create tasks to add to todo list <br />
+Flask + Vue WebApp Demo - Create tasks to add to todo list <br />
+Highlights: Create / Read/ Update / Delete operations of internal database from dyanmic frontend to backend API.
 <br />
 CREATE - Add items to todo list through Vue GUI or Flask API <br />
 READ - List items displayed on homepage of Web App through API <br />
